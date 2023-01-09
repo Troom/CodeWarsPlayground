@@ -28,6 +28,5 @@
             return new int[] { };
         }
         public static int[] MinMinMax2(int[] a) => new[] { a.Min(), Enumerable.Range(a.Min(), a.Max()).Except(a).First(), a.Max() };
-
     }
 }
