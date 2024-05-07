@@ -127,5 +127,4 @@ namespace CodeWarsPlayground.CSharp.Kyu4
         }
 
         }
-    }
 }

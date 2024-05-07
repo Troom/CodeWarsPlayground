@@ -45,7 +45,4 @@
                     })
                     .All(x => x.Rights == x.Lefts);
                     }
-
-
-}
 }
